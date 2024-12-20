@@ -344,7 +344,7 @@
 		}
 		{
 			x: 4.0d
-			y: 3.5d
+			y: 2.0d
 			subtitle: "超级简陋版AE"
 			description: ["这是整个Tom存储网络的核心，每一个网络都需要一个这个"]
 			hide_dependency_lines: true
@@ -357,7 +357,7 @@
 			}]
 		}
 		{
-			x: 5.5d
+			x: 4.0d
 			y: 5.0d
 			description: ["把这个连进网络，然后在它旁边放箱子"]
 			dependencies: ["09C7BC114B28DEEC"]
@@ -370,7 +370,7 @@
 		}
 		{
 			x: 4.0d
-			y: 5.0d
+			y: 3.5d
 			dependencies: ["104BAE4525104BCA"]
 			id: "09C7BC114B28DEEC"
 			tasks: [{
@@ -381,7 +381,7 @@
 		}
 		{
 			x: 2.5d
-			y: 3.5d
+			y: 2.0d
 			description: ["通过终端来访问网络里面的物品"]
 			dependencies: ["104BAE4525104BCA"]
 			id: "293EE8A502FA5294"
@@ -393,7 +393,7 @@
 		}
 		{
 			x: 2.5d
-			y: 5.0d
+			y: 0.5d
 			description: ["现在我们在终端里面加了个合成表"]
 			dependencies: ["293EE8A502FA5294"]
 			id: "6D0DAF6A9AB400E2"
@@ -406,7 +406,7 @@
 		{
 			title: "真正的无线终端"
 			x: 2.5d
-			y: 0.5d
+			y: 5.0d
 			description: [
 				"上一个无线终端很废物？是的。"
 				"这个才是真正的无线终端，离得远也能随便访问的那种"
@@ -422,7 +422,7 @@
 		}
 		{
 			x: 4.0d
-			y: 2.0d
+			y: 0.5d
 			dependencies: ["104BAE4525104BCA"]
 			id: "06E4760F54D2D1AB"
 			tasks: [{
@@ -439,7 +439,7 @@
 		}
 		{
 			x: 5.5d
-			y: 3.5d
+			y: 2.0d
 			dependencies: ["104BAE4525104BCA"]
 			id: "02E97010D8EA563D"
 			tasks: [{
@@ -461,7 +461,7 @@
 		}
 		{
 			x: 2.5d
-			y: 2.0d
+			y: 3.5d
 			subtitle: "废物东西（"
 			description: [
 				"什么？这玩意怎么用？"

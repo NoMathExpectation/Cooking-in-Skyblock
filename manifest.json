@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CiS",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "",
   "files": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "projectID": 521480,
-      "fileID": 5647080,
+      "fileID": 5905483,
       "required": true
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "projectID": 521594,
-      "fileID": 5759515,
+      "fileID": 5904024,
       "required": true
     },
     {
@@ -377,6 +377,11 @@
     {
       "projectID": 881586,
       "fileID": 5228626,
+      "required": true
+    },
+    {
+      "projectID": 308989,
+      "fileID": 3650485,
       "required": true
     },
     {
@@ -636,7 +641,7 @@
     },
     {
       "projectID": 735609,
-      "fileID": 5122476,
+      "fileID": 5952068,
       "required": true
     },
     {
@@ -670,18 +675,13 @@
       "required": true
     },
     {
-      "projectID": 318749,
-      "fileID": 3930787,
-      "required": true
-    },
-    {
       "projectID": 250398,
       "fileID": 4555742,
       "required": true
     },
     {
       "projectID": 297404,
-      "fileID": 5335196,
+      "fileID": 5841609,
       "required": true
     },
     {

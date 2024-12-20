@@ -7,6 +7,19 @@
 	icon: "farmersdelight:hamburger"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
+	images: [{
+		x: -0.5d
+		y: 0.5d
+		width: 1.0d
+		height: 1.0d
+		rotation: 0.0d
+		image: "custom:textures/004.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+		dependency: "5A75C07C9FC4F92B"
+	}]
 	quests: [
 		{
 			x: -5.0d
@@ -507,6 +520,7 @@
 		{
 			x: 4.0d
 			y: 2.0d
+			subtitle: "滋..."
 			description: ["海绵宝宝其实是煎肉排大师"]
 			dependencies: ["75DFA410D05F488B"]
 			id: "6C471DBC8D166C6A"
@@ -759,7 +773,7 @@
 			y: 3.5d
 			description: [
 				"1、由于黄铜筛子被改造过，你可以把它放在你的左手，把可以过筛的方块放在右手，像用砂纸一样使用，就可以手动过筛了"
-				"2、有些配方需要动力筛子在水里才能使用"
+				"2、有些配方需要动力筛子在水里才能使用：你要把动力筛子放在水方块里面"
 				"3、想手动过筛含水配方？只要你站在水里就行了"
 			]
 			dependencies: [

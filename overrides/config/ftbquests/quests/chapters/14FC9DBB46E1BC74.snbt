@@ -284,6 +284,7 @@
 					id: "2316A8021E587108"
 					type: "item"
 					item: "chancecubes:compact_giant_chance_cube"
+					count: 64
 				}
 			]
 		}
